@@ -2,6 +2,6 @@
 
 loja virtual 3D
 
-texdto alterado
+texto alterado
 
 2
